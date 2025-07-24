@@ -32,6 +32,9 @@ const Login: React.FC = () => {
           <label htmlFor="email" style={{ display: 'block', marginBottom: '5px' }}>
             メールアドレス
           </label>
+          <label htmlFor="email" style={{ display: 'block', marginBottom: '5px' }}>
+            メールアドレス
+          </label>
           <input
             type="email"
             id="email"
