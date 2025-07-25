@@ -6,4 +6,5 @@ export default defineConfig({
   build: {
     outDir: 'build', // 出力先をbuildに変更
   },
+  base: '/costratio/', // GitHub Pagesのリポジトリ名を指定
 });
